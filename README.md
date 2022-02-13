@@ -13,3 +13,6 @@ Generete tags https://chev.me/arucogen/
  * timer starts when marker leaves box,
  * stops when marker reenters box
  * 
+
+# Demo
+https://drive.google.com/file/d/156LbR7Fok9nFkIhQrrt86xCxxs-tsNLg/view?usp=sharing
